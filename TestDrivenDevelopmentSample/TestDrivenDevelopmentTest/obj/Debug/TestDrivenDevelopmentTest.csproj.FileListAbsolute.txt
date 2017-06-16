@@ -1,0 +1,7 @@
+C:\Users\UnknownPc\Documents\Visual Studio 2012\Projects\TestDrivenDevelopmentSample\TestDrivenDevelopmentTest\bin\Debug\TestDrivenDevelopmentTest.dll
+C:\Users\UnknownPc\Documents\Visual Studio 2012\Projects\TestDrivenDevelopmentSample\TestDrivenDevelopmentTest\bin\Debug\TestDrivenDevelopmentTest.pdb
+C:\Users\UnknownPc\Documents\Visual Studio 2012\Projects\TestDrivenDevelopmentSample\TestDrivenDevelopmentTest\bin\Debug\TestDrivenDevelopmentSample.exe
+C:\Users\UnknownPc\Documents\Visual Studio 2012\Projects\TestDrivenDevelopmentSample\TestDrivenDevelopmentTest\bin\Debug\TestDrivenDevelopmentSample.pdb
+C:\Users\UnknownPc\Documents\Visual Studio 2012\Projects\TestDrivenDevelopmentSample\TestDrivenDevelopmentTest\obj\Debug\TestDrivenDevelopmentTest.csprojResolveAssemblyReference.cache
+C:\Users\UnknownPc\Documents\Visual Studio 2012\Projects\TestDrivenDevelopmentSample\TestDrivenDevelopmentTest\obj\Debug\TestDrivenDevelopmentTest.dll
+C:\Users\UnknownPc\Documents\Visual Studio 2012\Projects\TestDrivenDevelopmentSample\TestDrivenDevelopmentTest\obj\Debug\TestDrivenDevelopmentTest.pdb

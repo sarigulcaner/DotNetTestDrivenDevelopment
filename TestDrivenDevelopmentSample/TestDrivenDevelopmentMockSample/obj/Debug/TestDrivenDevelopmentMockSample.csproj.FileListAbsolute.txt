@@ -1,0 +1,11 @@
+C:\Users\UnknownPc\Documents\Visual Studio 2012\Projects\TestDrivenDevelopmentSample\TestDrivenDevelopmentMockSample\bin\Debug\TestDrivenDevelopmentMockSample.dll
+C:\Users\UnknownPc\Documents\Visual Studio 2012\Projects\TestDrivenDevelopmentSample\TestDrivenDevelopmentMockSample\bin\Debug\TestDrivenDevelopmentMockSample.pdb
+C:\Users\UnknownPc\Documents\Visual Studio 2012\Projects\TestDrivenDevelopmentSample\TestDrivenDevelopmentMockSample\bin\Debug\Castle.Core.dll
+C:\Users\UnknownPc\Documents\Visual Studio 2012\Projects\TestDrivenDevelopmentSample\TestDrivenDevelopmentMockSample\bin\Debug\Moq.dll
+C:\Users\UnknownPc\Documents\Visual Studio 2012\Projects\TestDrivenDevelopmentSample\TestDrivenDevelopmentMockSample\bin\Debug\TestDrivenDevelopmentSample.exe
+C:\Users\UnknownPc\Documents\Visual Studio 2012\Projects\TestDrivenDevelopmentSample\TestDrivenDevelopmentMockSample\bin\Debug\TestDrivenDevelopmentSample.pdb
+C:\Users\UnknownPc\Documents\Visual Studio 2012\Projects\TestDrivenDevelopmentSample\TestDrivenDevelopmentMockSample\bin\Debug\Castle.Core.xml
+C:\Users\UnknownPc\Documents\Visual Studio 2012\Projects\TestDrivenDevelopmentSample\TestDrivenDevelopmentMockSample\bin\Debug\Moq.xml
+C:\Users\UnknownPc\Documents\Visual Studio 2012\Projects\TestDrivenDevelopmentSample\TestDrivenDevelopmentMockSample\obj\Debug\TestDrivenDevelopmentMockSample.csprojResolveAssemblyReference.cache
+C:\Users\UnknownPc\Documents\Visual Studio 2012\Projects\TestDrivenDevelopmentSample\TestDrivenDevelopmentMockSample\obj\Debug\TestDrivenDevelopmentMockSample.dll
+C:\Users\UnknownPc\Documents\Visual Studio 2012\Projects\TestDrivenDevelopmentSample\TestDrivenDevelopmentMockSample\obj\Debug\TestDrivenDevelopmentMockSample.pdb
